@@ -1,7 +1,9 @@
-[![Chenyu.Z](https://img.shields.io/badge/Chenyu.Z-github-blue?logo=github)](https://github.com/RainRSnow)
-[![ICN 实验室](https://img.shields.io/badge/ICN-Hokkaido%20University-green?logo=google-scholar)](https://csw.ist.hokudai.ac.jp/)
-[![电子邮件](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:zhaochenyu@icn.ist.hokudai.ac.jp)
+[![Qinwen.L](https://img.shields.io/badge/Chenyu.Z-github-blue?logo=github)](https://github.com/qinwenliao13-art)
+[![湖南大学|经济与贸易学院](https://img.shields.io/badge/Hunan%20University-green?logo=google-scholar)](https://www.hnu.edu.cn)
+[![电子邮件](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:qwliao19@hnu.edu.cn)
 
-我现为北海道大学情报科学院博士生，隶属于信息通信网络研究室（情報通信ネットワーク研究室）。研究聚焦于数字芯片与 SoC 的软硬件协同设计，围绕 RISC-V 处理器、信号处理和机器学习加速，贯通算法验证、体系结构设计、RTL 实现、FPGA 原型、ASIC 实现及板级集成。
+我是湖南大学经济与贸易学院24级学生,就读国际经济与贸易(实验班)2402班,我的主修课程有宏观微观经济学,国际贸易学,计量经济学,博弈论,区域与城市经济学,数字经济学等等.
 
-我的技术背景涵盖数字集成电路设计、FPGA 开发、嵌入式软件和 PCB 系统开发，能够面向不同应用需求开展从算法映射、硬件架构到芯片实现与系统验证的完整开发，兼顾性能、资源效率与工程可实现性。
+此外我的二外是法语.
+
+现在处于一个思索读什么研怎么读的状态.
