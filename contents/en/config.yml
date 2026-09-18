@@ -8,12 +8,12 @@ nav-education: EDUCATION
 nav-experience: EXPERIENCE
 nav-awards: AWARDS
 nav-publications: PUBLICATIONS
-nav-hobbies: SKILLS
+nav-skills: SKILLS
 education-label: EDUCATION
 experience-label: RESEARCH & PROJECTS
 awards-label: HONORS & AWARDS
 publications-label: PUBLICATIONS
-hobbies-label: SKILLS
+skills-label: SKILLS
 menu-label: MENU
 license-link: License
 language-label: Language
