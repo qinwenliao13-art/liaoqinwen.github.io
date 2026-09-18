@@ -1,4 +1,4 @@
-[![Qinwen.L](https://img.shields.io/badge/Chenyu.Z-github-blue?logo=github)](https://github.com/qinwenliao13-art)
+[![Qinwen.L](https://img.shields.io/badge/Qinwen.L-github-blue?logo=github)](https://github.com/qinwenliao13-art)
 [![湖南大学|经济与贸易学院](https://img.shields.io/badge/Hunan%20University-green?logo=google-scholar)](https://www.hnu.edu.cn)
 [![电子邮件](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:qwliao19@hnu.edu.cn)
 
