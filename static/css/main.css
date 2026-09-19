@@ -98,6 +98,9 @@ section .main-body{
 #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border: 4px solid white;
+    outline: 2px solid var(--h-title-color);
+    outline-offset: 3px;
 }
 
 @media screen and (max-width: 991px) {
