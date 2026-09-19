@@ -1,7 +1,9 @@
-[![Chenyu.Z](https://img.shields.io/badge/Chenyu.Z-github-blue?logo=github)](https://github.com/RainRSnow)
-[![ICN lab](https://img.shields.io/badge/ICN-Hokkaido%20University-green?logo=google-scholar)](https://csw.ist.hokudai.ac.jp/)
-[![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:zhaochenyu@icn.ist.hokudai.ac.jp)
+[![Qinwen.L](https://img.shields.io/badge/Qinwen.L-github-blue?logo=github)](https://github.com/qinwenliao13-art)
+[![湖南大学|经济与贸易学院](https://img.shields.io/badge/Hunan%20University-green?logo=google-scholar)](https://www.hnu.edu.cn)
+[![电子邮件](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:qwliao19@hnu.edu.cn)
 
-I am a Ph.D. student at the Graduate School of Information Science and Technology, Hokkaido University, and a member of the Laboratory of Information Communication Networks. My research focuses on hardware-software co-design of digital chips and SoCs, with an emphasis on RISC-V processors, signal processing, and machine learning acceleration across algorithm validation, architecture design, RTL implementation, FPGA prototyping, ASIC implementation, and board-level integration.
+I am an undergraduate student enrolled in the Class of 2024 at the School of Economics and Trade, Hunan University, where I am studying in Class 2402 of the International Economics and Trade (Experimental Program). My core courses include Macroeconomics, Microeconomics, International Trade, Econometrics, Regional and Urban Economics, Digital Economics, and others.
 
-My technical background spans digital IC design, FPGA development, embedded software, and PCB-based system development. I develop complete solutions for a range of application requirements, from algorithm mapping and hardware architecture to chip implementation and system validation, with a focus on performance, resource efficiency, and practical implementation.
+You may download my resume here:
+
+[Resume-QinwenLiao](files/Resume-QinwenLiao.pdf)
