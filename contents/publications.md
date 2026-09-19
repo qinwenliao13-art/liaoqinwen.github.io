@@ -1,18 +1,31 @@
-**Journal Paper**
+### 中俄蒙砖茶跨境文旅项目（"云砖联道"）
+**市场调研 · 大学生创新创业训练计划 · 2025–2026**
 
-**International Conference**
-- Naoya Yamamura, Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "Evaluation of Bit-Width Effects in Fixed-Point FPGA-Optimized MFCC Computation via Software Simulation for HMM-Based Phrase Speech Recognition," Proceedings of International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), Nov. 2025. [[doi:10.1109/ISPACS68724.2025.11383003]](http://dx.doi.org/10.1109/ISPACS68724.2025.11383003)
-- Yuzuki Morikawa, Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "Accuracy Evaluation of a Streaming-Based Resource-Efficient Mel Filter Bank Architecture with Fixed-Point Based Design Approaches," Proceedings of International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), Nov. 2025. [[doi:10.1109/ISPACS68724.2025.11383445]](http://dx.doi.org/10.1109/ISPACS68724.2025.11383445)
-- Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "Design and Implementation of a Real-Time Acoustic Feature Visualization System on Raspberry Pi Platform Utilizing Fixed-Point FPGA-Based Mel Spectrum Extraction," Proceedings of International Symposium on Multimedia and Communication Technology (ISMAC), Aug. 2025. [[doi:10.1109/ISMAC65024.2025.11175938]](http://dx.doi.org/10.1109/ISMAC65024.2025.11175938)
-- Haruka Sakaki, Kenshiro Tanaka, Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "Comparative Evaluation of CNN, VGG16, Conformer, and YAMNet Models for Skateboard Riding Sound Detection," Proceedings of International Symposium on Multimedia and Communication Technology (ISMAC), Aug. 2025. [[doi:10.1109/ISMAC65024.2025.11175929]](http://dx.doi.org/10.1109/ISMAC65024.2025.11175929)
-- Chenyu Zhao, Naoya Yamamura, Hiroshi Tsutsui, Takeo Ohgane, "Evaluation of Computational Cost and Result Accuracy in Design and Efficient Implementation of Log-Mel Spectrogram and MFCC Feature Extraction Using Fixed-Point Arithmetic on FPGA," Proceedings of International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), Dec. 2024. [[doi:10.1109/ISPACS62486.2024.10868561]](http://dx.doi.org/10.1109/ISPACS62486.2024.10868561)
+围绕万里茶道文化IP的商业转化，主导完成从消费者调研到商业策划的全流程方案设计。
 
+- 设计并发放覆盖内蒙古城乡牧区三类区域的砖茶消费问卷，回收有效问卷450份，完成24组深度访谈
+- 撰写《内蒙古砖茶消费习惯与万里茶道文化IP商业转化调查报告》，系统分析消费行为、品牌认知与文化需求
+- 完成《中俄蒙砖茶跨境文旅项目消费者调研市场分析报告》，结合文创产业与研学旅游市场数据进行市场前景研判
 
-**Domestic Conference**
-- Taishin Hori, Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "An Evaluation of Parameters for Log-Mel Spectrum Calculation in Anomalous Sound Detection Using Spiking Neural Networks," Joint Conference of Electrical, Electronics and Information Engineers in Hokkaido, p. 113, Nov. 2025 (in Japanese) [[URL]](https://www.ieice.org/hokkaido/shibukai2025/program/program.html#68)
-- Naoya Yamamura, Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "Evaluation of Bit-Width Effects in Fixed-Point FPGA-Optimized MFCC Computation via Software Simulation for HMM-Based Phrase Speech Recognition Using Delta Features," Joint Conference of Electrical, Electronics and Information Engineers in Hokkaido, p. 114, Nov. 2025 (in Japanese). [[URL]](https://www.ieice.org/hokkaido/shibukai2025/program/program.html#69)
-- Chenyu Zhao, Yuzuki Morikawa, Hiroshi Tsutsui, Takeo Ohgane, "Design of a Streaming-Based Resource-Efficient Mel Filter Bank Architecture for Real-Time Mel Spectrum Extraction on FPGA," IEICE Society Conference, p. 118, A-14-15, Sep. 2025. [[URL]](https://pub.confit.atlas.jp/ja/event/society2025/presentation/A-14-15)
-- Yuzuki Morikawa, Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "Towards a Low-Cost Hardware Implementation of a Mel Filter Bank for Audio Signal Processing," Proceedings of the 50th PARTHENON Technical Society Conference, pp. 32-33, Dec. 2024 (in Japanese). [[URL]](https://parthenon-society.com/2025/04/02/50program/)
-- Chenyu Zhao, Hiroshi Tsutsui, Takeo Ohgane, "A Prototype Implementation of Audio Signal Pitch Shifting Utilizing Arty A7 and I2S MEMS Microphone Controlled by RISC-V Processor," Proceedings of the 49th PARTHENON Technical Society Conference, pp. 25-29, Dec. 2023. [[URL]](https://parthenon-society.com/2023/12/21/49program/)
+### 湖南郴州自由贸易试验区发展成效调查
+**经济问题调查课程作业 · 2025年**
 
+围绕中国（湖南郴州）自由贸易试验区的制度创新、产业集聚与营商环境优化三大维度，设计完整的社会调查方案。
 
+- 采用问卷调查与深度访谈相结合的混合方法，通过问卷星线上发放与线下走访，覆盖片区内外贸企业、物流企业及跨境电商
+- 联合郴州片区管委会、郴州海关等部门开展半结构化访谈，挖掘政策实施细节与典型案例
+- 构建通关时效、政策知晓率、成本变化等核心指标体系，纵向对比政策实施前后的企业经营数据，横向对照广州南沙、深圳前海等同类片区
+- 聚焦有色金属加工、跨境电商、现代物流三大主导产业，评估产业集聚效应与"湘粤港澳直通"定位下的区域联动机制
+
+### 经济增长与工业大气污染的非线性关系研究
+**计量经济学实验报告 · 2025–2026**
+
+基于环境库兹涅茨曲线（EKC）理论框架，选取2005—2022年中国30个省份的平衡面板数据（540个观测值），以人均工业二氧化硫排放量为被解释变量，构建双向固定效应模型实证检验经济增长与环境污染的非线性关系。
+
+- 纳入产业结构、技术创新、对外开放、人口密度四类控制变量，采用聚类稳健标准误提升估计可靠性
+- 研究发现中国人均GDP与工业二氧化硫排放呈显著"倒U型"曲线关系，拐点对应2005年不变价人均GDP约79900元
+  
+### 湖南金龙集团专业认知实习
+**学校认知实习 · 2026年9月**
+
+走访电线电缆制造企业，参观生产车间与国际业务部门，了解中国企业出海非洲、中东市场的真实历程。
