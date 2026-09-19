@@ -1,20 +1,8 @@
-#### Digital Hardware & Integrated Circuit Design
-- Verilog HDL for RTL design of fixed-point datapaths, control logic, and audio processing modules.
-- Functional simulation, module- and system-level verification, timing analysis, FPGA synthesis and implementation, and board-level debugging.
-- Integration of ARM / RISC-V CPUs, hardware accelerators, and peripherals, including bus address mapping and clock architecture design.
-
-- Synopsys / Cadence flows for logic synthesis, static timing analysis, placement, and routing.
-- LVS / DRC sign-off, GDSII generation, and tape-out-related workflows.
-
-#### Algorithms & Embedded Development
-- Python / MATLAB for audio algorithm and machine learning model simulation, fixed-point conversion, and bit-width analysis.
-- Hardware-software co-implementation of signal processing algorithms and deployment and validation of machine learning inference on processors and hardware accelerators.
-- C/C++ development for ARM, RISC-V, STM32, and TM4 platforms and RTOS applications.
-- Linux applications and device drivers, UART / I2C / SPI interfaces, PCB design using Cadence / KiCad, and system bring-up.
-
-#### Linux, Automation & Source Management
-- Linux development environments, Shell / Tcl scripting, and Makefile development for automated compilation, simulation, synthesis, and placement-and-routing flows.
-- Git-based source control, branch collaboration, and change tracking.
-
-#### Languages
-- Chinese; English (TOEFL 80+, TOEIC 860); Japanese (JLPT N1).
+<table class="awards-table">
+<caption class="visually-hidden">荣誉与奖项</caption>
+<tbody>
+<tr><th scope="row">2026 年 6 月</th><td class="award-separator" aria-hidden="true">—</td><td>The participant won the Provincial Third Prize and the University-level First Prize in the 12th National Undergraduate Statistical Modeling Competition.</td></tr>
+<tr><th scope="row">2026 年 5 月</th><td class="award-separator" aria-hidden="true">—</td><td>Second Prize in the Hunan University Mathematical Modeling Competition</td></tr>
+<tr><th scope="row">2026 年 4 月</th><td class="award-separator" aria-hidden="true">—</td><td>Third Prize in the 15th "Challenge Cup" China Undergraduate Entrepreneurship Plan Competition awarded to Hunan University</td></tr>
+</tbody>
+</table>
