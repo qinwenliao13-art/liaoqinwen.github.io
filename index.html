@@ -207,19 +207,26 @@
 
     </main>
 
+        
     <!-- 右下角悬浮点赞按钮 -->
-    <div style="position:fixed;bottom:2rem;right:2rem;z-index:9999;">
-      <button id="like-btn" onclick="likePage()" style="width:60px;height:60px;border-radius:50%;border:none;background:#1877F2;color:white;font-size:1.5rem;cursor:pointer;box-shadow:0 4px 12px rgba(0,0,0,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-        <span style="font-size:1.2rem;">❤️</span>
-        <span id="like-count" style="font-size:0.7rem;">0</span>
+    <div style="position:fixed;bottom:2rem;right:2rem;z-index:9999;text-align:center;">
+      <button id="like-btn" onclick="likePage()" style="width:64px;height:64px;border-radius:50%;border:none;background:#1877F2;color:white;cursor:pointer;box-shadow:0 4px 16px rgba(24,119,242,0.4);display:flex;flex-direction:column;align-items:center;justify-content:center;transition:all 0.3s ease;">
+        <span id="like-icon" style="font-size:1.4rem;line-height:1;">🤍</span>
+        <span id="like-count" style="font-size:0.65rem;margin-top:2px;">--</span>
       </button>
+      <div style="font-size:0.7rem;color:#666;margin-top:4px;">喜欢</div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
     <script>
       const counterUrl = 'https://api.counterapi.dev/v1/qliao-homepage/likes/';
       fetch(counterUrl)
         .then(r => r.json())
-        .then(d => document.getElementById('like-count').innerText = d.count)
-        .catch(() => document.getElementById('like-count').innerText = '0');
+        .then(d => {
+          document.getElementById('like-count').innerText = d.count;
+        })
+        .catch(() => {
+          document.getElementById('like-count').innerText = '0';
+        });
       function likePage() {
         if (localStorage.getItem('liked_homepage')) {
           alert('你已经点过赞啦～');
@@ -228,10 +235,28 @@
         fetch(counterUrl + 'up', {method: 'GET'})
           .then(r => r.json())
           .then(d => {
-            document.getElementById('like-count').innerText = d.count;
-            document.getElementById('like-btn').innerHTML =
-              '<span style="font-size:1.2rem;">✅</span>' +
-              '<span id="like-count" style="font-size:0.7rem;">' + d.count + '</span>';
+            const newCount = d.count;
+            document.getElementById('like-count').innerText = newCount;
+            document.getElementById('like-icon').innerText = '❤️';
+            document.getElementById('like-btn').style.background = '#e74c3c';
+            // 撒花
+            confetti({
+              particleCount: 100,
+              spread: 80,
+              startVelocity: 35,
+              origin: { y: 0.85, x: 0.95 }
+            });
+            localStorage.setItem('liked_homepage', 'true');
+          })
+          .catch(() => {
+            // 就算接口失败也让按钮变红
+            document.getElementById('like-icon').innerText = '❤️';
+            document.getElementById('like-btn').style.background = '#e74c3c';
+            confetti({
+              particleCount: 100,
+              spread: 80,
+              origin: { y: 0.85, x: 0.95 }
+            });
             localStorage.setItem('liked_homepage', 'true');
           });
       }
