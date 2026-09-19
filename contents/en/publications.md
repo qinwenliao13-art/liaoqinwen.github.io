@@ -1,5 +1,5 @@
 ### Brick Tea Cross-border Cultural Tourism Project (China-Russia-Mongolia)
-**Project Lead · College Student Innovation and Entrepreneurship Program · 2025–2026**
+**Project Lead · College Student Innovation and Entrepreneurship Program · 2025–2026** [View Report](files/tea.pdf)
 
 Led a full-cycle project on commercializing the "Ten-Thousand-Mile Tea Road" cultural IP, spanning consumer research to business planning.
 
@@ -9,7 +9,7 @@ Led a full-cycle project on commercializing the "Ten-Thousand-Mile Tea Road" cul
 - Developed a business plan and a China-Russia-Mongolia cross-border study tour itinerary
 
 ### Nonlinear Relationship Between Economic Growth and Industrial Air Pollution
-**Econometrics Lab Report · 2025–2026**
+**Econometrics Lab Report · 2025–2026** [View Report](files/chenzhou-ftz-survey.docx)
 
 Employed a two-way fixed effects model on balanced panel data of 30 Chinese provinces (2005–2022, 540 observations) to test the Environmental Kuznets Curve hypothesis.
 
@@ -18,7 +18,7 @@ Employed a two-way fixed effects model on balanced panel data of 30 Chinese prov
 - Conducted robustness checks via alternative dependent variables, winsorization, and instrumental variable estimation
 
 ### Chenzhou Free Trade Zone Evaluation Survey
-**Course Project · 2025–2026**
+**Course Project · 2025–2026** [View Report](files/econometrics-report.pdf)
 
 Designed a social survey evaluating the Chenzhou FTZ across institutional innovation, industrial clustering, and business environment optimization.
 
@@ -27,6 +27,6 @@ Designed a social survey evaluating the Chenzhou FTZ across institutional innova
 - Focused on non-ferrous metals processing, cross-border e-commerce, and modern logistics industries
 
 ### Professional Internship
-**Hunan Jinlong Group · Sep 2026**
+**Hunan Jinlong Group · Sep 2026** [View Report](files/internship.pdf)
 
 Visited a wire and cable manufacturer, observing production lines and international business operations to understand Chinese enterprises' expansion into African and Middle Eastern markets.
