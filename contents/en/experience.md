@@ -1,27 +1,17 @@
-### RISC-V SoC Design Framework for Audio Signal Processing
-**Project lead · Master's and doctoral research · Hokkaido University · 2024–present**
+### State-Aware Statistical Learning Model for Risk Governance in Capital Markets
+**Project Lead · Entry Project for the National Undergraduate Statistical Modeling Competition · Hunan University · February 2026 – June 2026**
 
-Lead hardware-software co-design of an SoC combining audio signal processing and machine learning, spanning algorithm and model validation, digital implementation, ASIC tape-out, and board-level integration, with software or hardware inference for tasks such as voice recognition and anomaly detection.
+- Led the drafting of the research paper focusing on return forecasting and tail risk management for the A-share market; designed a state-aware mixture-of-experts framework and categorized market conditions into three regimes—upward trend, sharp decline, and volatile—to establish a regime-aware empirical research framework.
+- Completed the cleaning of daily-frequency A-share market data, performed feature engineering and sample grouping, and developed a statistical learning model integrating CNN and BiLSTM specialized experts for sharp decline scenarios to conduct benchmark regressions and empirical tests.
 
-1. **Architecture & algorithm validation**: Develop the initial design and use software simulation to validate audio processing algorithms, machine learning models, and hardware-software implementation approaches.
-2. **Digital module design**: Develop audio processing RTL modules, perform functional simulation, and analyze timing.
-3. **SoC integration & FPGA validation**: Integrate the CPU and processing modules, design the bus address map and clock architecture, and validate FPGA prototypes.
-4. **ASIC implementation & tape-out**: Use Synopsys / Cadence tools for logic synthesis, placement and routing, and LVS / DRC checks; generate GDS and advance the design to tape-out.
-5. **Software & board-level integration**: Write software for ARM / RISC-V CPUs, design PCBs, and bring up the integrated hardware and software.
-6. **Machine learning deployment & task validation**: Run model inference in CPU software or hardware logic, integrate audio processing with machine learning, and validate end-to-end functionality for tasks such as voice recognition and anomaly detection.
+### Hunan Jinxia International Trade Co., Ltd.
+**International Trade Business Intern · June 2026 – September 2026 · Changsha**
 
-### FPGA-Based Sound Source Localization System
-**Team lead, hardware and software engineer · Jun 2020–May 2021 · Nanjing**
+- Participated in the on-site reconnaissance for the proposed 100,000-ton zircon-titanium ore washing and processing plant project of Fujian Weiyuan Mining Co., Ltd. at the Jinxia Changtong Logistics Park; conducted research and organized, compiled, and identified gaps in environmental impact assessment (EIA) documentation; distilled reusable insights regarding pollution-generating nodes, remediation standards, and key acceptance criteria, providing precise benchmark references for the EIA scheme design of the new project.
+- Organized and categorized business archives and compliance documents in accordance with trade business regulations and the EIA submission requirements for industrial projects, providing essential documentation support for project implementation and procedural processing.
 
-- Led the team, analyzed requirements, and defined the technical implementation plan.
-- Designed the PCB with the team and implemented and debugged sound decoding, FFT, and communication modules on a Xilinx FPGA.
-- The project received a national award and recognition as a “Xilinx 2020 Outstanding Open Source Project.”
+### Hunan University Library
+**Lead Volunteer Coordinator for the North Campus Library · September 2025 – Present · Hunan University**
 
-### Emotion Classification and Application Based on Brain-Computer Interface
-**Embedded developer, hardware engineer · Oct 2019–Nov 2020 · Nanjing**
-
-- Developed and debugged hardware and STM32 firmware with an RTOS to upload EEG data for processing on an IoT platform.
-- Contributed to the project's patent as a named inventor.
-
-#### Patent contribution
-**Physiological condition monitoring equipment based on electroencephalogram signals and bioimpedance data** — Chinese invention patent application, [CN111012339A](https://patents.google.com/patent/CN111012339A/en), filed Jan 7, 2020 and published Apr 17, 2020.
+- Responsible for the recruitment, training, scheduling, attendance tracking, and performance management of over 90 registered volunteers; successfully completed two recruitment and team-building cycles.
+- Planned and successfully executed orientation events and Reading Month themed activities, which reached over 2,100 students, faculty, and staff; coordinated activity proposals, personnel allocation, resource deployment, and on-site execution.
