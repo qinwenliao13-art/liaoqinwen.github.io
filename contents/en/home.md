@@ -6,6 +6,6 @@ I am an undergraduate student enrolled in the Class of 2024 at the School of Eco
 
 You may download my resume here:
 
-[简历-廖琴文](files/jianli.pdf)
-
 [Resume-QinwenLiao](files/Resume-QinwenLiao.pdf)
+
+[简历-廖琴文](files/jianli.pdf)
