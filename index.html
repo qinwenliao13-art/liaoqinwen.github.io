@@ -208,12 +208,11 @@
     </main>
 
     <!-- 右下角悬浮点赞按钮 -->
-    <div style="position:fixed;bottom:2rem;right:2rem;z-index:9999;text-align:center;">
+    <div style="position:fixed;bottom:2rem;right:2rem;z-index:9999;" title="点个赞吧～">
       <button id="like-btn" onclick="likePage()" style="width:64px;height:64px;border-radius:50%;border:none;background:#1877F2;color:white;cursor:pointer;box-shadow:0 4px 16px rgba(24,119,242,0.4);display:flex;flex-direction:column;align-items:center;justify-content:center;transition:all 0.3s ease;">
         <span id="like-icon" style="font-size:1.4rem;line-height:1;">🤍</span>
         <span id="like-count" style="font-size:0.65rem;margin-top:2px;">0</span>
       </button>
-      <div style="font-size:0.7rem;color:#666;margin-top:4px;">点赞</div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
     <script>
@@ -222,7 +221,8 @@
         fetch(counterUrl)
           .then(r => r.json())
           .then(d => {
-            document.getElementById('like-count').innerText = d.count || d || '0';
+            const n = typeof d === 'object' ? (d.count || d.value || 0) : d;
+            document.getElementById('like-count').innerText = n;
           })
           .catch(() => {
             document.getElementById('like-count').innerText = '0';
@@ -233,8 +233,8 @@
         fetch(counterUrl + 'up', {method: 'GET'})
           .then(r => r.json())
           .then(d => {
-            const newCount = d.count || d || '0';
-            document.getElementById('like-count').innerText = newCount;
+            const n = typeof d === 'object' ? (d.count || d.value || 0) : d;
+            document.getElementById('like-count').innerText = n;
             document.getElementById('like-icon').innerText = '❤️';
             confetti({
               particleCount: 100,
