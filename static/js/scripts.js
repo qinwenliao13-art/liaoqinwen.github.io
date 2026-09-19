@@ -89,9 +89,7 @@ window.addEventListener('DOMContentLoaded', () => {
             // Load the entire language before replacing content, so languages never mix.
             const [configText, ...markdown] = await Promise.all([
                 loadText(`${content_dir}${language}/config.yml`),
-                ...section_names.map(name => loadText(name === 'publications'
-                    ? `${content_dir}publications.md`
-                    : `${content_dir}${language}/${name}.md`)),
+                ...section_names.map(name => loadText(`${content_dir}${language}/${name}.md`)),
             ]);
             const config = jsyaml.load(configText);
             const html = markdown.map(content => marked.parse(content));
