@@ -7,12 +7,12 @@ nav-home: HOME
 nav-education: EDUCATION
 nav-experience: EXPERIENCE
 nav-awards: HOBBIES
-nav-publications: COURSE
+nav-publications: ASSIGNMENTS
 nav-skills: AWARDS
 education-label: EDUCATION
 experience-label: RESEARCH & INTERN
 awards-label: HOBBIES
-publications-label: Related to course assignments
+publications-label: 课程作业相关
 skills-label: AWARDS
 menu-label: MENU
 license-link: License
