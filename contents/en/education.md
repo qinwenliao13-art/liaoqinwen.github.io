@@ -1,14 +1,10 @@
-### Hokkaido University | Information Science and Technology
-**Ph.D. student · Graduate School of Information Science and Technology · 2025–present**
+### Hunan University | International Economics and Trade
+**Undergraduate Student · School of Economics and Trade · From 2024 to present**
 
-**Master's degree · Graduate School of Information Science and Technology · 2023–2025**
+- **Program Objective:** To cultivate versatile, application-oriented professionals who have mastered the fundamental principles of economics as well as the basic theories and practical skills pertaining to international economics and international trade; who are familiar with prevailing international trade rules and practices; and who are capable of engaging in operational tasks, management, research, and promotional planning within foreign-related economic and trade sectors, foreign-invested enterprises, and government agencies (?).
+- **Academic Progress:** Currently, under the guidance of my supervisor, I am working through several academic papers and determining my research direction for my master's studies.
 
-- **Laboratory:** Laboratory of Information Communication Networks
-- **Supervisors:** Prof. Takeo Ohgane and Assoc. Prof. Hiroshi Tsutsui
-- **Research progression:** During the master's program, studied fixed-point audio feature extraction and efficient FPGA implementation. The doctoral research extends this work to hardware-software co-design of RISC-V SoCs for audio signal processing and machine learning, spanning FPGA prototyping, ASIC implementation, and end-to-end system integration.
+### University of Oxford | Strategic Management and Leadership Management
+**Winter Exchange Program · January 2026 – February 2026**
 
-### Nanjing University of Posts and Telecommunications | Bachelor's Degree in Electronic Science and Technology
-**Electronic Science and Technology · Sep 2018–Jun 2022**
-
-- **Academic foundation:** Built a hardware-software foundation through coursework in C/C++ and Python programming, analog and digital circuits, signals and systems, embedded systems, semiconductor physics and devices, and integrated circuit design and CAD.
-- **Engineering practice:** Built a foundation in digital hardware design and hardware-software co-development through projects involving FPGAs, embedded systems, and brain-computer interfaces.
+- **Courses:** Completed two courses: Strategic Management and Cross-Cultural Leadership; led the completion of a strategic analysis report on Tesla's market entry into India and proposed a phased implementation strategy; simultaneously designed decision-making and communication mechanisms for a cross-functional team spanning five countries.
