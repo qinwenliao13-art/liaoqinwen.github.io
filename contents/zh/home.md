@@ -6,4 +6,4 @@
 
 可以在这里下载我的简历:
 
-[Resume](files/Resume-QinwenLiao.pdf)
+[Resume-QinwenLiao](files/Resume-QinwenLiao.pdf)
