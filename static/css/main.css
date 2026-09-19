@@ -246,3 +246,7 @@ section .main-body {
 .language-switch button {
     color: white !important;
 }
+.top-section h2 {
+    font-weight: 300;
+    letter-spacing: 0.05rem;
+}
