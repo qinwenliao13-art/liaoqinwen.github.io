@@ -207,52 +207,29 @@
 
     </main>
 
-
     <!-- 右下角悬浮点赞按钮 -->
     <div style="position:fixed;bottom:2rem;right:2rem;z-index:9999;" title="点个赞吧～">
-      <button id="like-btn" onclick="likePage()" style="width:64px;height:64px;border-radius:50%;border:none;background:#e74c3c;color:white;cursor:pointer;box-shadow:0 4px 16px rgba(231,76,60,0.4);display:flex;flex-direction:column;align-items:center;justify-content:center;transition:all 0.3s ease;">
+      <button id="like-btn" onclick="likePage()" style="width:64px;height:64px;border-radius:50%;border:none;background:#c9a96e;color:white;cursor:pointer;box-shadow:0 4px 16px rgba(201,169,110,0.4);display:flex;flex-direction:column;align-items:center;justify-content:center;transition:all 0.3s ease;">
         <span id="like-icon" style="font-size:1.4rem;line-height:1;">🤍</span>
-        <span id="like-count" style="font-size:0.65rem;margin-top:2px;">...</span>
+        <span id="like-count" style="font-size:0.65rem;margin-top:2px;">0</span>
       </button>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
     <script>
-      const ns = 'qliao-homepage';
-      const key = 'likes';
-      const apiUrl = 'https://api.counterapi.dev/v1/' + ns + '/' + key + '/';
-
-      // 加载当前总赞数
-      fetch(apiUrl)
-        .then(r => r.json())
-        .then(d => {
-          const n = typeof d === 'object' ? (d.count || d.value || 0) : d;
-          document.getElementById('like-count').innerText = n;
-        })
-        .catch(() => {
-          document.getElementById('like-count').innerText = '0';
-        });
-
+      let count = parseInt(localStorage.getItem('my_likes') || '0');
+      document.getElementById('like-count').innerText = count;
       function likePage() {
-        fetch(apiUrl + 'up')
-          .then(r => r.json())
-          .then(d => {
-            const n = typeof d === 'object' ? (d.count || d.value || 0) : d;
-            document.getElementById('like-count').innerText = n;
-            document.getElementById('like-icon').innerText = '❤️';
-            confetti({
-              particleCount: 100,
-              spread: 80,
-              startVelocity: 35,
-              origin: { y: 0.85, x: 0.95 }
-            });
-          })
-          .catch(() => {
-            confetti({
-              particleCount: 100,
-              spread: 80,
-              origin: { y: 0.85, x: 0.95 }
-            });
-          });
+        count++;
+        localStorage.setItem('my_likes', count);
+        document.getElementById('like-count').innerText = count;
+        document.getElementById('like-icon').innerText = '❤️';
+        confetti({
+          particleCount: 100,
+          spread: 80,
+          startVelocity: 35,
+          origin: { y: 0.85, x: 0.95 },
+          colors: ['#c9a96e', '#4a5568', '#ffffff', '#d4b87a']
+        });
       }
     </script>
 
