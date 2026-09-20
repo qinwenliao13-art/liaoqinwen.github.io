@@ -9,7 +9,7 @@ Led a full-cycle project on commercializing the "Ten-Thousand-Mile Tea Road" cul
 - Developed a business plan and a China-Russia-Mongolia cross-border study tour itinerary
 
 ### Nonlinear Relationship Between Economic Growth and Industrial Air Pollution
-**Econometrics Lab Report · 2025–2026** [View Report](files/chenzhou-ftz-survey.docx)
+**Econometrics Lab Report · 2025–2026** [View Report](files/chenzhou-ftz-survey.pdf)
 
 Employed a two-way fixed effects model on balanced panel data of 30 Chinese provinces (2005–2022, 540 observations) to test the Environmental Kuznets Curve hypothesis.
 
